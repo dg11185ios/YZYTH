@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app2.dg11185.com/appm/f/d/847</string>
+					<string>http://app2.dg11185.com/appm/f/d/848</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dg11185.*</string>
+				<string>com.dg11185.YZYTH</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
