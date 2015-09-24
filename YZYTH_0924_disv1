@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dg11185.YZYTH</string>
+				<string>com.dg11185.IPostUnity</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>0.1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
